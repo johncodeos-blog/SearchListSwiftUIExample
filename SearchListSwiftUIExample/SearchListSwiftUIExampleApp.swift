@@ -2,7 +2,7 @@
 //  SearchListSwiftUIExampleApp.swift
 //  SearchListSwiftUIExample
 //
-//  Created by John Codeos on 11/9/20.
+//  Created by John Codeos on 11/18/20.
 //
 
 import SwiftUI
